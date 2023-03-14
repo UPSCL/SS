@@ -7,3 +7,4 @@ yt-dlp
 ffmpeg
 cloudscraper
 BeautifulSoup4
+helper==2.5.0
