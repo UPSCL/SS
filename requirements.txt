@@ -2,7 +2,7 @@ pyrogram==1.4.16
 tgcrypto
 requests
 python-dotenv<=0.20.0
-pyromod==1.5
+pyromod==2.0.0
 yt-dlp
 ffmpeg
 cloudscraper
